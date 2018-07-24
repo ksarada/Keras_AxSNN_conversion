@@ -11,6 +11,7 @@ TODO (conversion):
 1) Automate the identification of models that come with an input layer
 2) Automate model specification
 3) Stride specification, padding etc
+4) Currently, only parsed models from snntoolbox(cite link) are supported as layers such as Activation, Dropout etc are removed. Must include this here, for all models.
 
 TODO: (axsnnsim)
 1) Max Pooling support
